@@ -8,9 +8,9 @@
       "name": "RoPhimTV",
       "id": "com.rophimtv.provider",
       "version": "1.0.0",
-      "url": "https://nguyenquocanhz.github.io/cloudstream-rophim/rophimtv.js",
-      "icon": "https://nguyenquocanhz.github.io/cloudstream-rophim/logo.png",
-      "description": "Nguồn phát phim chất lượng cao, đa dạng thể loại và ngôn ngữ phát sóng từ hệ thống RoPhimTV",
+      "url": "https://raw.githubusercontent.com/nguyenquocanhz/cloudstream-rophim/main/rophimtv.js",
+      "icon": "https://raw.githubusercontent.com/nguyenquocanhz/cloudstream-rophim/main/logo.png",
+      "description": "Nguồn phát phim chất lượng cao từ hệ thống RoPhimTV",
       "language": "vi",
       "types": ["movie", "tv"]
     }
