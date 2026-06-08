@@ -1,0 +1,18 @@
+{
+  "name": "RoPhimTV Extension Repo",
+  "description": "Kho cung cấp phim độc quyền vietsub, thuyết minh và lồng tiếng từ RoPhimTV",
+  "manifestVersion": 1,
+  "pluginMinApi": 1,
+  "plugins": [
+    {
+      "name": "RoPhimTV",
+      "id": "com.rophimtv.provider",
+      "version": "1.0.0",
+      "url": "https://YOUR_GITHUB_USERNAME.github.io/rophimtv-extensions/rophimtv.js",
+      "icon": "https://YOUR_GITHUB_USERNAME.github.io/rophimtv-extensions/logo.png",
+      "description": "Nguồn phát phim chất lượng cao, đa dạng thể loại và ngôn ngữ phát sóng từ hệ thống RoPhimTV",
+      "language": "vi",
+      "types": ["movie", "tv"]
+    }
+  ]
+}
