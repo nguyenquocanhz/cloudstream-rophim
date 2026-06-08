@@ -7,10 +7,10 @@ const plugin = {
     version: "1.0.0",
     description: "Kho phim thuyết minh, lồng tiếng chất lượng cao từ RoPhimTV",
     author: "Fullstack Developer",
-    icon: "https://YOUR_GITHUB_USERNAME.github.io/rophimtv-extensions/logo.png",
+    icon: "https://nguyenquocanhz.github.io/cloudstream-rophim/logo.png",
 
     // URL nguồn cấp dữ liệu chính của bạn trên GitHub Pages
-    FEED_URL: "https://YOUR_GITHUB_USERNAME.github.io/rophimtv-extensions/cloudstream_feed.json",
+    FEED_URL: "https://nguyenquocanhz.github.io/cloudstream-rophim/cloudstream_feed.json",
 
     // Gọi khi bắt đầu tải plugin
     async onLoad() {
