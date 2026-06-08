@@ -10,7 +10,7 @@ const plugin = {
     icon: "https://nguyenquocanhz.github.io/cloudstream-rophim/logo.png",
 
     // URL nguồn cấp dữ liệu chính của bạn trên GitHub Pages
-    FEED_URL: "https://nguyenquocanhz.github.io/cloudstream-rophim/cloudstream_feed.json",
+    FEED_URL: "https://nguyenquocanhz.github.io/cloudstream-rophim/public/cloudstream_feed.json",
 
     // Gọi khi bắt đầu tải plugin
     async onLoad() {
